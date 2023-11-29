@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/LINEFRIENDS-minini-world-jenini-4GWmvKBiml8vPQUchI" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc2h4aWExajY4MGo1b2poMzlzeGVxN2dwbnFjN25qajhvMWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWmvKBiml8vPQUchI/giphy.gif" width="100"/>
 </div>
+
 
 
 <div id="badges">
