@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc2h4aWExajY4MGo1b2poMzlzeGVxN2dwbnFjN25qajhvMWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWmvKBiml8vPQUchI/giphy.gif" width="100"/>
+<iframe src="https://giphy.com/embed/4GWmvKBiml8vPQUchI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-minini-world-jenini-4GWmvKBiml8vPQUchI">via GIPHY</a></p>
 </div>
 
 <div id="badges">
