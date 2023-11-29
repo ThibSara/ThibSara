@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/LINEFRIENDS-minini-world-jenini-4GWmvKBiml8vPQUchI" width="100"/>
 </div>
+
 
 <div id="badges">
   <a href="(https://www.linkedin.com/in/sara-thibierge-6092471bb/)">
