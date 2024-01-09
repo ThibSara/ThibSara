@@ -16,17 +16,15 @@
     <br>
 </h1>
 
-
-- 🔭 I’m a student at ESILV - La Défense
-- 🌱 I’m currently in master 1 - Data and Artificial Intelligence
-
-  <div align="center">
+<div align="center">
  
  🔭 I’m currently studying **data science** and **AI** at ESILV in La Défense
  
  🌱 I’m currently learning **Python, ML**
 
- </div>
+</div>
+
+<hr/>
 
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
