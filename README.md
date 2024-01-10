@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Sara Thib.</h1>
+  <h1>Sara Thib. </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc2h4aWExajY4MGo1b2poMzlzeGVxN2dwbnFjN25qajhvMWZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWmvKBiml8vPQUchI/giphy.gif" width="100"/>
 </div>
 
