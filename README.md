@@ -18,9 +18,9 @@
 
 <div align="center">
  
-👋 I'm currently a student at ESILV in La Défense, where I'm pursuing my passion for engineering, with a focus on **machine learning**. Although my academic focus is on **Artificial Intelligence and Data Science**, I also have a strong interest in user experience (UX) design. 
+👋 I'm an engineering student learning **machine learning** and **Artificial Intelligence and Data Science**, I also have a strong interest in user experience (UX) design. 
 
-🌱 Currently, I'm learning Python, TypeScript and JavaScript, paving the way to become a **software engineer**.
+🌱 Currently, I'm learning Python, TypeScript and JavaScript, paving the way to become a **Full-Stack Developer**.
 
 </div>
 
