@@ -26,7 +26,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages I use ⚒️</h2>
+<h2 align="center">⚒️ languages and frameworks I use ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,js,ts,py,c,cs,r" /><br>
@@ -35,7 +35,7 @@
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,blender,figma,unity,github,gitlab,discord,ps,pr,ai,id" /><br>
 </div>
 <br/>
 <hr/>
