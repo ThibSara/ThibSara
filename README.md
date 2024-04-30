@@ -35,7 +35,7 @@
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,blender,figma,unity,discord,ps,pr,ai,id" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,blender,figma,unity,discord,ps,pr,ai,id" /><br>
 </div>
 <br/>
 <hr/>
