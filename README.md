@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,arduino,c,cs,cpp,mysql,r,react" /><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,c,cs,r,react,arduino,next" /><br>
 </div>
 
 <h2 align="center">💻 Software I use 💻</h2>
