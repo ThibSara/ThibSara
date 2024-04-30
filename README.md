@@ -18,9 +18,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **data science** and **AI** at ESILV in La Défense
- 
- 🌱 I’m currently learning **Python, ML**
+👋 I'm currently a student at ESILV in La Défense, where I'm pursuing my passion for engineering, with a focus on **machine learning**. Although my academic focus is on **Artificial Intelligence and Data Science**, I also have a strong interest in user experience (UX) design. 
+🌱 Currently, I'm learning Python, TypeScript and JavaScript, paving the way to become a **software engineer**.
+🔭 Excited to explore the intersections of technology and user experience, I'm on a journey to learn, create, and innovate.
 
 </div>
 
@@ -29,13 +29,13 @@
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,arduino,c,cs,cpp,mysql,r,react" /><br>
+    <img src="https://skillicons.dev/icons?i= jsx,tsx,html,css, py,arduino,c,cs,cpp,mysql,r,react" /><br>
 </div>
 
 <h2 align="center">💻 Software I use 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,blender,unity,figma,linux,github,gitlab,discord,ps,pr,ai,id" /><br>
 </div>
 <br/>
 <hr/>
