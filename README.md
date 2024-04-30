@@ -18,7 +18,7 @@
 
 <div align="center">
  
-🌟  I'm an engineering student learning **Machine Learning** and **Artificial Intelligence and Data Science**, 
+🌟  I'm an engineering student learning **Machine Learning** and **Artificial Intelligence**, 
 
 🚀 I recently discovered my strong interest in **UX design** and **Web/Mobile development**. 
 
