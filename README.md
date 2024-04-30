@@ -22,8 +22,6 @@
 
 🌱 Currently, I'm learning Python, TypeScript and JavaScript, paving the way to become a **software engineer**.
 
-🔭 Excited to explore the intersections of technology and user experience, I'm on a journey to learn, create, and innovate.
-
 </div>
 
 <hr/>
@@ -31,7 +29,7 @@
 <h2 align="center">⚒️ Languages I use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css, py,arduino,c,cs,cpp,mysql,r,react" /><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,arduino,c,cs,cpp,mysql,r,react" /><br>
 </div>
 
 <h2 align="center">💻 Software I use 💻</h2>
